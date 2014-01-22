@@ -32,6 +32,9 @@ lib/libqdi.so
 lib/libqdp.so
 lib/libuim.so
 
+## Audio
+lib/libaudioalsa.so
+
 ## GPS
 lib/libcommondefs.so
 lib/librpc.so
